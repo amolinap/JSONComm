@@ -1,0 +1,18 @@
+{"Telemetry": { "MessageName": "Commands", "properties":[{
+        "ID": 1,
+        "PropertyName": "Latitude",
+        "key": "19.048145"
+    },{
+        "ID": 2,
+        "PropertyName": "Longitude",
+        "key": "-95.982869"
+    },{
+        "ID": 3,
+        "PropertyName": "Altitude",
+        "key": "400.5"
+    },{
+        "ID": 4,
+        "PropertyName": "COG",
+        "key": "270.5"
+    }]}
+}
